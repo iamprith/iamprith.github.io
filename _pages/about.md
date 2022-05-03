@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Prith Sengupta, a CS PhD Candidate at University of Illinois at Chicago. My research interests lie broadly in the area of Theoretical Computer Science specifically Graph Theory. I work on analyzing various real world networks using different notions of curvatures which were originally defined for smooth continuous Riemannian manifolds.
 
-A data-driven personal website
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
