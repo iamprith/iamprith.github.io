@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WYogSWgAAAAJ&hl=en&oi=ao"
-  email            : "prithvi1096@gmail.com","psengu4@uic.edu"
+  email            : "prithvi1096@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/prithviraj-sengupta/"
-  orcid            : "https://orcid.org/0000-0003-0968-9169"
+  orcid            : #"https://orcid.org/0000-0003-0968-9169"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
