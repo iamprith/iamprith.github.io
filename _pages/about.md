@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Prith Sengupta, a CS PhD Candidate at University of Illinois at Chicago. My research interests lie broadly in the area of Theoretical Computer Science specifically Graph Theory. I work on analyzing various real world networks using different notions of curvatures which were originally defined for smooth continuous Riemannian manifolds.
+Hi! I am Prithviraj Sengupta, a PhD student at the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois at Chicago](https://www.uic.edu/). I work under the guidance of [Prof. Bhaskar DasGupta](https://www.cs.uic.edu/~dasgupta/), as a part of the [Theory Group](http://theory.cs.uic.edu/). My research interests span several areas such as Theoretical Computer Science, Graph Theory, Computational Biology and Computer Vision. Currently, I am investigating various notions of curvatures and working on discretizing them in order to analyze different real world networks such as Traumatic Brain Injury Networks.
+
+
+Prior to joining UIC, I completed my Bachelors' from [KIIT University](https://kiit.ac.in/) with a major in Computer Science. During my undergrad, I spent time at [NIT Rourkela](https://www.nitrkl.ac.in/) and [IIT Kharagpur](http://www.iitkgp.ac.in/) working on different problems on Image Forensics. I also spent some time in the industry working at [Deloitte](https://en.wikipedia.org/wiki/Deloitte) as an Advisory Analyst.
+
+
+Apart from research, I take deep interest in music, philosophy, cricket and traveling. Please feel to reach out if you want to chat about any of these topics.
 
 Recent News
 ======
